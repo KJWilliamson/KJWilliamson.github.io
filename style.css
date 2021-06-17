@@ -1,0 +1,52 @@
+/* font-family: 'Poppins', sans-serif; */
+
+*, 
+*::before, 
+*::after {
+    box-sizing: border-box;
+}
+
+
+/* custom properties */
+:root {
+    /* fonts */
+    --ff-primary: 'Poppins', sans-serif;
+    --ff-secondary: 'Viaoda Libre', cursive;
+
+    /* font-weight */
+    --fw-reg: 300;
+    --fw-bold: 900;
+
+    /* color */
+    --clr-light: #FDFAF6;
+    --clr-dark: #125D98;
+    --clr-accent: #F5A962;
+
+    /* font-size */
+    --fs-h1: 3rem;
+    --fs-h2: 2.25rem;
+    --fs-h3: 1.25rem;
+    --fs-body: 1rem;
+
+}
+
+@media (min-width: 800px) {
+    :root {
+        --fs-h1: 4.5;
+        --fs-h2: 3.75rem;
+        --fs-h3: 1.5rem;
+        --fs-body: 1.125rem;
+    }
+}
+
+/* general styling */
+
+body {
+    background: var(--clr-light);
+    color: var(--clr-dark);
+    margin: 0;
+    font-family: var(--ff-primary);
+    font-size: var(--fs-body);
+    line-height: 1.6;
+
+}
