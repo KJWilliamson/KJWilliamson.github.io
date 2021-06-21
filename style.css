@@ -21,6 +21,7 @@
     --clr-light: #FDFAF6;
     --clr-dark: #125D98;
     --clr-accent: #FFC947;
+    
 
     /* font-size */
     --fs-h1: 3rem;
@@ -29,7 +30,8 @@
     --fs-body: 1rem;
 
     /* box shadow */
-    --bs: 0.25em 0.25em 0.75em rgba(0, 0, 0, .25);
+    --bs: 0.25em 0.25em 0.75em rgba(0, 0, 0, .25),
+    0.125em 0.125em 0.25em rgba(0, 0, 0, .15);
 }
 
 @media (min-width: 800px) {
@@ -145,4 +147,12 @@ nav {
         left: -1.5em;
         width: calc(100% + 1.5em);
     }
+}
+
+
+/* services section */
+.my-services {
+    background-color: var(--clr-dark);
+    background-image: url(../images/animationkam.jpg);
+    color: var(--clr-light);
 }
