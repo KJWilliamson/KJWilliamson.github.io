@@ -153,6 +153,6 @@ nav {
 /* services section */
 .my-services {
     background-color: var(--clr-dark);
-    background-image: url(../images/animationkam.jpg);
+    /* background-image: url(../images/animationkam.jpg); */
     color: var(--clr-light);
 }
