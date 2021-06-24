@@ -162,8 +162,19 @@ nav {
 .section__title--services {
     color: var(--clr-accent);
     position: relative;
+    text-align: center;
 }
 
-.section__title--services {
+.section__title--services::after {
+    content: '';
+    display: block;
+    width: 3em;
+    height: 1px;
+    margin: 0.5em auto 1em;
+    background: currentColor;
+    opacity: 0.2;
+}
+
+@media (min-width: 800px) {
     
 }
