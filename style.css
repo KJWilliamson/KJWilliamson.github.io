@@ -1,4 +1,6 @@
-/* font-family: 'Poppins', sans-serif; */
+/* font-family: 'Poppins', sans-serif; 
+https://colorhunt.co/palette/ffe194e8f6efb8dfd84c4c6d
+*/
 
 *, 
 *::before, 
@@ -19,8 +21,8 @@
 
     /* color */
     --clr-light: #FDFAF6;
-    --clr-dark: #125D98;
-    --clr-accent: #FFC947;
+    --clr-dark: #4C4C6D;
+    --clr-accent: #FFE194;
     
 
     /* font-size */
