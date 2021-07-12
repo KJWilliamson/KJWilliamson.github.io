@@ -305,17 +305,24 @@ nav {
 }
 
 /* footer */
+
 .footer__link,
 .social-list__link {
     color: var(--clr-accent);
-}
-
-.footer {
-    background: var(--clr-light);
-    color: var(--clr-accent);
-    text-align: center;
-    padding: 2.5em;
+    font-size: 25px;
+    padding: 3em;
+    text-decoration: none;
 
 }
 
-.footer a { color: inherit }
+.footer__link {
+    font-weight: var(--fw-bold);
+    text-decoration: underline;
+}
+
+.social-list {
+    list-style: none;
+    display: flex;
+
+}
+
