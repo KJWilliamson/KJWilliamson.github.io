@@ -133,7 +133,24 @@ h3 { font-size: var(--fs-h3) }
 
 /* header */
 
+.nav__list, 
+.nav__item {
+    display: flex;
+    justify-content: space-between;
+    
 
+}
+
+.nav__link {
+    color: var(--clr-accent);
+    font-size: var(--fs-h3);
+    font-weight: var(--fw-bold);
+}
+
+.logo {
+    max-width: 100px;
+
+}
 
 
 .intro {
