@@ -536,7 +536,8 @@ body.light hr.separator {
 }
 
 .home .bg {
-  background-image: url(http://via.placeholder.com/610x1020);
+  /* IMAGE OF ME */
+  background-image: url("kjw2.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
