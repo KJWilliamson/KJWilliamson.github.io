@@ -537,16 +537,16 @@ body.light hr.separator {
 
 .home .bg {
   /* IMAGE OF ME */
-  background-image: url(kjw2.jpg);
+  background-image: url("610.jpg");
   background-size: cover;
-  background-repeat: no-repeat;
-  background-position: top;
+  background-repeat: no-repeat; 
+  background-position: top; 
   height: calc(100vh - 80px);
   z-index: 111;
   border-radius: 30px;
   left: 40px;
   top: 40px;
-  box-shadow: 0 0 7px rgba(0,0,0,.9);
+  box-shadow: 0 0 7px rgba(0,0,0,.9); 
 }
 
 .home .container-home {
