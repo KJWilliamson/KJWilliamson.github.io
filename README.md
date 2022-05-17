@@ -5,4 +5,5 @@
 https://kjwilliamson.github.io/
 
 
-![githubprofile](https://user-images.githubusercontent.com/24884380/168719869-7bbf6d81-1540-4389-8159-0dff4d940e37.jpg)
+
+![portfolio](https://user-images.githubusercontent.com/24884380/168884679-fa4f89d6-c9ee-4689-a964-33ee11bbdeb7.jpg)
