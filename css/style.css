@@ -946,7 +946,7 @@ body.light hr.separator {
 
 /* Embedded Videos */
 
-.portfolio .slideshow .videocontainer,
+/* .portfolio .slideshow .videocontainer,
 .portfolio .slideshow .responsive-video {
   max-width: 100%;
   border-radius: 4px;
@@ -980,7 +980,7 @@ body.light hr.separator {
 
 /* Carousel */
 
-.portfolio .slideshow .carousel-indicators {
+/* .portfolio .slideshow .carousel-indicators {
   bottom: 0;
   background: rgba(0,0,0,.4);
   padding: 10px 0;
@@ -994,7 +994,7 @@ body.light hr.separator {
   margin: 0 7px;
   background-color: #fff;
   opacity: 1;
-}
+}  */
 
 /* Navigation */
 
