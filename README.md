@@ -6,4 +6,5 @@ https://kjwilliamson.github.io/
 
 
 
-![portfolio](https://user-images.githubusercontent.com/24884380/168884679-fa4f89d6-c9ee-4689-a964-33ee11bbdeb7.jpg)
+
+![portfolio](https://user-images.githubusercontent.com/24884380/168971806-5e824dec-18c4-4e48-813b-d2be4cb99710.jpg)
