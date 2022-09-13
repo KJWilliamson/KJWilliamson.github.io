@@ -7,9 +7,10 @@
 https://kamelawilliamson.netlify.app/index.html
 
 
+![portfolio](https://user-images.githubusercontent.com/24884380/190002218-d650ff8f-29f2-4a21-a8b7-952c1714bfdb.jpg)
 
 
-![portfolio](https://user-images.githubusercontent.com/24884380/168971806-5e824dec-18c4-4e48-813b-d2be4cb99710.jpg)
+
 
 
 https://kjwilliamson.github.io/
