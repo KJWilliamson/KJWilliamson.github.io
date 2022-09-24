@@ -43,6 +43,10 @@ Version: 1.0
 
 /*** Miscellaneous ***/
 
+ul {
+  color: #fff;
+}
+
 html {
   overflow-x: hidden;
   height: 100%;
