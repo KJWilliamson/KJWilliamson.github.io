@@ -1782,3 +1782,20 @@ body.light hr.separator {
     margin-top: 35px !important;
   }
 }
+
+
+.blog-excerpt open-sans-font pb-5 {
+  position: relative;
+  text-align: center;
+  
+}
+
+.top-center {
+  position: absolute;
+  top: 118px;
+  left: 86px;
+  color: #f12a73;
+  font-size: 4em;
+}
+
+
