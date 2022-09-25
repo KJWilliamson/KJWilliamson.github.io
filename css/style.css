@@ -48,6 +48,11 @@ a {
   color: #678F53;
 }
 
+a:hover {
+  color: #a1d188;
+  text-decoration: none;
+}
+
 
 ul {
   color: #fff;
