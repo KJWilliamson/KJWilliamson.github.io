@@ -1,5 +1,3 @@
-## Link to site
-
 ### Custom GitHub profile
 
 ### Link
