@@ -1,6 +1,7 @@
 ### Custom GitHub profile
 
-### Link
+#### Built using HTML, CSS, and Javascript
+
 
 https://kamelawilliamson.netlify.app/index.html
 
