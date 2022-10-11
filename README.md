@@ -1,6 +1,6 @@
 ## Link to site
 
-### Github profile
+### Custom GitHub profile
 
 ### Link
 
