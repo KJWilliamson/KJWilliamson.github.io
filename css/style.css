@@ -243,6 +243,7 @@ body.light hr.separator {
   body.light .header ul.icon-menu li.icon-box.active i,
   body.light .header ul.icon-menu li.icon-box:hover i {
     color: #fff;
+    
   }
 }
 
@@ -346,10 +347,22 @@ body.light hr.separator {
   color: #fff;
   background-color: transparent;
   outline: none !important;
+  /* use text-shadow when using white skin */
+  text-shadow:
+  -1px -1px 0 #000,
+  1px -1px 0 #000,
+  -1px 1px 0 #000,
+  1px 1px 0 #000;
 }
 
 .button .button-text {
   position: relative;
+  /* use text-shadow when using white skin */
+  text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
   z-index: 2;
   color: #fff;
   transition: .3s ease-out all;
@@ -388,6 +401,7 @@ body.light hr.separator {
   font-size: 19px;
   color: #ffffff;
   border-radius: 50%;
+  
 }
 
 /*** Page Title ***/
@@ -475,6 +489,13 @@ body.light hr.separator {
     color: #ddd;
     font-size: 19px;
     transition: .3s;
+    /* use text-shadow when using white skin */
+    text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+
   }
 
   .header ul.icon-menu li.icon-box.active,
@@ -482,6 +503,12 @@ body.light hr.separator {
   .header ul.icon-menu li.icon-box.active i,
   .header ul.icon-menu li.icon-box:hover i {
     color: #fff;
+    /* use text-shadow when using white skin */
+    text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
   }
 
   .header .icon-box h2 {
@@ -552,7 +579,8 @@ body.light hr.separator {
 
 .home .bg {
   /* IMAGE OF ME */
-  background-image: url("../img/me/612.jpg");
+  /* added black & white pic for b&w design */
+  background-image: url("../img/me/b&w.jpg");
   background-size: cover;
   background-repeat: no-repeat; 
   background-position: top; 
@@ -850,6 +878,11 @@ body.light hr.separator {
   text-transform: uppercase;
   color: #fff;
   font-size: 18px;
+  text-shadow:
+  -1px -1px 0 #000,
+  1px -1px 0 #000,
+  -1px 1px 0 #000,
+  1px 1px 0 #000;
 }
 
 /* Slideshow */
@@ -1095,6 +1128,7 @@ body.light hr.separator {
   margin: 0 6px;
   background: #2b2a2a;
   border-radius: 50%;
+  
 }
 /* Form */
 .contact .contactform input[type=text],
@@ -1240,6 +1274,7 @@ body.light hr.separator {
 
 .blog .page-link:hover {
   color: #fff !important;
+  
 }
 
 /* Blog Post */
