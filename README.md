@@ -6,8 +6,9 @@
 https://kamelawilliamson.netlify.app/index.html
 
 
+![portfolio](https://user-images.githubusercontent.com/24884380/211746437-80bb71f1-7632-42ae-ac65-aab0c83b152c.jpg)
 
-![portfolio](https://user-images.githubusercontent.com/24884380/199661754-6e0ff9ef-8416-4462-9f2c-e68eadabb463.jpg)
+
 
 
 
